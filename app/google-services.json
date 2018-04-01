@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "819372310162",
+    "firebase_url": "https://putripuspita-1202154293-modul6.firebaseio.com",
+    "project_id": "putripuspita-1202154293-modul6",
+    "storage_bucket": "putripuspita-1202154293-modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819372310162:android:4b7ec0d493ab8bad",
+        "android_client_info": {
+          "package_name": "android.example.com.putripuspita_1202154293_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819372310162-kkbrkqov2n5l2gtd2sdsa5affj5lfl6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTL5q_Y34GOBWZ03JQ18Ei_sGWqcr5nek"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
